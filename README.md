@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi，你好！欢迎来到我的GitHub，我是vincent 👋
 
+- 🔭 方欣科技前端开发工程师，正在看新的工作机会
+- 🌱 热爱学习和分享，<a href="https://juejin.cn/user/4054654615555854" target="_blank">掘金 百闻一见</a>
+- 😄 走在希望的路上，你我一起加油！
+- 💬 微信号：wxid_hwu6j7sliztg22
 <!--
 **V-vincent/V-vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
