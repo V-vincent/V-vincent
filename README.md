@@ -1,6 +1,6 @@
 ### Hi，你好！欢迎来到我的GitHub，我是vincent 👋
 
-- 🔭 前端开发工程师，正在看新的工作机会
+- 🔭 前端开发工程师
 - 🌱 热爱学习和分享，<a href="https://juejin.cn/user/4054654615555854/posts" target="_blank">掘金 起风了Q</a>
 - ⚡ 不断积累的知识库，<a href="https://www.yuque.com/v-vincent" target="_blank">语雀 vincent</a>
 - 😄 走在希望的路上，你我一起加油！
