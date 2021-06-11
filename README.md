@@ -4,7 +4,7 @@
 - 🌱 热爱学习和分享，<a href="https://juejin.cn/user/4054654615555854/posts" target="_blank">掘金 起风了Q</a>
 - ⚡ 不断积累的知识库，<a href="https://www.yuque.com/v-vincent" target="_blank">语雀 vincent</a>
 - 😄 你相信什么，就会遇见什么！
-- 💬 微信号：wxid_hwu6j7sliztg22
+- 💬 微信号：jq_vincent
 <!--
 **V-vincent/V-vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
